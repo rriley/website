@@ -11,4 +11,4 @@ positions related to systems security through the Qatar National Research Fund. 
 In addition, I have specific openings on collaborative research
 grants:
 
-[Postdoctoral Position in Mobile Device Security](/hiring/postdoc-mobile.html)
+ * [Postdoctoral Position in Mobile Device Security](/hiring/postdoc-mobile.html)
