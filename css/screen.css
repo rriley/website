@@ -496,12 +496,14 @@ p.delicious-extended:before { content: ' — '; }
 	left: 0;
 	text-align: left;
 	display: block;
+	font-size: 75%;
 }
 #footer .engine {
 	position: absolute;
 	text-align: right;
 	display: block;
 	right: 0;
+	font-size: 75%;
 }
 /* @end */
 
