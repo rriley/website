@@ -218,6 +218,7 @@ ul.compact li a {
 #header h2 {
 	font-family: Palatino, georgia, "times new roman", serif;
 	margin-top: 0.1em;
+	margin-bottom: 0;
 	line-height: 0.9em;
 	display: block;
 	font-weight: normal;
