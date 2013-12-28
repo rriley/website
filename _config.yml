@@ -1,4 +1,6 @@
 title: A Security Academic in Qatar
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables"]
 pygments: true
 author: Ryan Riley
