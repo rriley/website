@@ -9,7 +9,7 @@ title: "A Security Academic in Qatar"
 <tr>
 <td>
 <div style="margin: 0 10px 0 0">
-<img src="/images/ryan_small.png">
+<img src="/images/ryan_small.png" title="Ryan on a Camel">
 </div>
 </td>
 <td>
