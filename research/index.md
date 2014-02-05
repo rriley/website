@@ -12,6 +12,7 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
 
 ##Publications
 
+  * Jesse Elwell, Ryan Riley, Nael Abu-Ghazaleh, and Dmitry Ponomarev, "A Non-Inclusive Memory Permissions Architecture for Protection Against Cross-Layer Attacks", Proceedings of the *20th IEEE International Symposium On High Performance Computer Architecture* (HPCA 2014), Orlando, Florida, February 2014 (26%).
   * Junghwan Rhee, Ryan Riley, Zhiqiang Lin, Xuxian Jiang, Dongyan Xu, "Data-Centric OS Kernel Malware Characterization", *IEEE Transactions on Information Forensics and Security*.  To appear.
   * Ryan Riley, Chris Clifton, and Qutaibah Malluhi, "[Maintaining Database Anonymity in the Presence of Queries](/pubs/STM2013.pdf)", Proceedings of the *9th International Workshop on Security and Trust Management* (STM 2013), London, UK, September 2013 (32%).
   * Ryan Riley, "[A Framework for Prototyping and Testing Data-Only Rootkit Attacks](/pubs/dorf.pdf)", *Computers & Security*, Volume 37, September 2013, Pages 62-71.
