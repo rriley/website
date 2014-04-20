@@ -12,3 +12,6 @@ Normally I would have links to the course websites for courses I’ve taught, bu
 
 ## Senior Design
 If you are a QU student interested in having me supervise your Senior Design Project, visit [this page](/teaching/senior.html) for details.
+
+## Thesis Supervision
+If you are Master's in Computing student in QU, [here](/teaching/thesis.html) is a page about projects I'm currently a part of that you could join to do your Master's Thesis.
