@@ -11,6 +11,7 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
 [QEMU](http://www.qemu.org/). 
 
 ##Publications
+  * Dmitry Evtyushkin, Jesse Elwell, Meltem Ozsoy, Dmitry Ponomarev, Nael Abu Ghazaleh, and Ryan Riley, "[Iso-X: A Flexible Architecture for Hardware-Managed Isolated Execution](/pubs/micro14.pdf)", Proceedings of the *47th Annual IEEE/ACM International Symposium on Microarchitecture* (MICRO 2014), Cambridge, UK, December 2014.
   * Noor Al-Nakhala, Ryan Riley, and Tarek M. Elfouly, "[Clustered Binary Consensus in Sensor Motes](/pubs/ew2014.pdf)", Proceedings of the *20th European Wireless Conference* (EW 2014), Barcelona, Spain, May 2014.
   * Jesse Elwell, Ryan Riley, Nael Abu-Ghazaleh, and Dmitry Ponomarev, "[A Non-Inclusive Memory Permissions Architecture for Protection Against Cross-Layer Attacks](/pubs/hpca14.pdf)", Proceedings of the *20th IEEE International Symposium On High Performance Computer Architecture* (HPCA 2014), Orlando, Florida, February 2014 (26%).
   * Junghwan Rhee, Ryan Riley, Zhiqiang Lin, Xuxian Jiang, Dongyan Xu, "[Data-Centric OS Kernel Malware Characterization](/pubs/TIFS_datagene.pdf)", *IEEE Transactions on Information Forensics and Security*, 9(1), January 2014.
