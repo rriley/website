@@ -12,14 +12,12 @@ If you would like me to consider supervising your project, there are some things
  * The project is your project, and you will be the driving force. I will **not** choose your project, assign you tasks, or write/edit your documentation. The project is entirely **yours**.
  * My role is to provide supervision, advice, guidance, and expertise. That means I would love to help answer questions and give you guidance about how to proceed. I want to walk with you as you learn and help you whenever I can.
  * I’m not easy. You will have to work. For a senior design project, I expect each student to put in about 12 hours per week on the project (on average). Some weeks will be much less, some weeks will be much more.
- * If the project is in anyway research oriented, I might be willing to write up the projects as a grant proposal for UREP. If the project gets funded, then each student will receive $4000 and ideally some or all of us will travel to a research conference to talk with people about the project.
  * I want the project to be fun for you and for me. Programming an interesting application for an Android phone is fun. Designing a scaleable internet based app is fun. Analyzing the security of something is fun. Writing a java program that no one will ever use and that you hate is not fun.
 
 Here is a list of topics that I find interesting recently, maybe they interest you, too.
 
- * Android-based cell phone applications
- * iPhone/iPodTouch based cell phone applications
- * The security of QU’s network
+ * Mobile phone applications
+ * The security of QU's network
  * Virtualization
  * Using microprocessors for security
  * Creative applications of Microsoft’s Kinect peripheral. [Examples](http://www.crunchgear.com/2010/12/07/videos-the-best-kinect-hacks-and-mods-one-month-in/).
@@ -31,4 +29,4 @@ In order for me to consider being your supervisor, your team needs to put togeth
  * Name and Student ID of every team member.
  * 100-300 word description of the project you would like to do.
 
-If you don’t know what you want to do, I’m more than willing to meet with you and talk about some of my and your interests.
+If you don’t know what you want to do, I'm more than willing to meet with you and talk about some of my and your interests.
