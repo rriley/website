@@ -24,7 +24,7 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
   * Ryan Riley, Xuxian Jiang, Dongyan Xu, [ "An Architectural Approach to Preventing Code Injection Attacks"](https://vsecurity.info/pubs/dsn07-codeinj.pdf), Proceedings of *IEEE/IFIP International Conference on Dependable Systems and Networks* ([DSN-DCCS 2007](http://www.dsn.org/)), Edinburgh, UK, June 2007. (25%) Source code is available from the [project page](http://friends.cs.purdue.edu/dokuwiki/doku.php?id=code_injection).
 
 ##Journal Publications
-  * Noor Al-Nakhala, Ryan Riley, and Tarek M. Elfouly, "[Distributed Algorithms in Wireless Sensor Networks: An Approach for Applying Binary Consensus in a Real Testbed](/pubs/consensus-journal.pdf)", *Computer Networks*, Elsevier, To Appear.
+  * Noor Al-Nakhala, Ryan Riley, and Tarek M. Elfouly, "[Distributed Algorithms in Wireless Sensor Networks: An Approach for Applying Binary Consensus in a Real Testbed](/pubs/consensus-journal.pdf)", *Computer Networks*, Elsevier, Volume 79, March 2015.
   * Junghwan Rhee, Ryan Riley, Zhiqiang Lin, Xuxian Jiang, Dongyan Xu, "[Data-Centric OS Kernel Malware Characterization](/pubs/TIFS_datagene.pdf)", *IEEE Transactions on Information Forensics and Security*, 9(1), January 2014.
   * Ryan Riley, "[A Framework for Prototyping and Testing Data-Only Rootkit Attacks](/pubs/dorf.pdf)", *Computers & Security*, Volume 37, September 2013, Pages 62-71.
   * Ryan Riley, Xuxian Jiang, Dongyan Xu, [ "An Architectural Approach to Preventing Code Injection Attacks", ](https://vsecurity.info/pubs/TDSC10.pdf) *IEEE Transactions on Dependable and Secure Computing* (TDSC), 7(4), 2010.
