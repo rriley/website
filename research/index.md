@@ -11,7 +11,7 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
 [QEMU](http://www.qemu.org/). 
 
 ##Conference Publications
-  * Vaibhav Rastogi, Rui Shao, Yan Chen, Xiang Pan, Shihong Zou, and Ryan Riley, "[Are These Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces](/pubs/ndss2016.pdf)", Proceedings of the *Network and Distributed System Security Symposium* (NDSS), San Diego, California, February 2016. (16%)
+  * Vaibhav Rastogi, Rui Shao, Yan Chen, Xiang Pan, Shihong Zou, and Ryan Riley, "[Are These Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces](/pubs/ndss2016.pdf)", Proceedings of the *Network and Distributed System Security Symposium* (NDSS), San Diego, California, February 2016. (15.4%)
   * Dmitry Evtyushkin, Jesse Elwell, Meltem Ozsoy, Dmitry Ponomarev, Nael Abu Ghazaleh, and Ryan Riley, "[Iso-X: A Flexible Architecture for Hardware-Managed Isolated Execution](/pubs/micro14.pdf)", Proceedings of the *47th Annual IEEE/ACM International Symposium on Microarchitecture* (MICRO 2014), Cambridge, UK, December 2014.
   * Noor Al-Nakhala, Ryan Riley, and Tarek M. Elfouly, "[Clustered Binary Consensus in Sensor Motes](/pubs/ew2014.pdf)", Proceedings of the *20th European Wireless Conference* (EW 2014), Barcelona, Spain, May 2014.
   * Jesse Elwell, Ryan Riley, Nael Abu-Ghazaleh, and Dmitry Ponomarev, "[A Non-Inclusive Memory Permissions Architecture for Protection Against Cross-Layer Attacks](/pubs/hpca14.pdf)", Proceedings of the *20th IEEE International Symposium On High Performance Computer Architecture* (HPCA 2014), Orlando, Florida, February 2014 (26%).
