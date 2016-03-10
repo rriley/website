@@ -8,8 +8,10 @@ title: "A Security Academic in Qatar"
 <table>
 <tr>
 <td>
-<div style="margin: 0 10px 0 0">
-<img src="/images/ryan_small.png" title="Ryan on a Camel">
+<div id="profile">
+<div class="portrait">
+<img src="/images/portrait-small.jpg" title="Ryan">
+</div>
 </div>
 </td>
 <td>

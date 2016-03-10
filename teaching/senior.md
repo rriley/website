@@ -23,10 +23,12 @@ Here is a list of topics that I find interesting recently, maybe they interest y
  * Creative applications of Microsoft’s Kinect peripheral. [Examples](http://www.crunchgear.com/2010/12/07/videos-the-best-kinect-hacks-and-mods-one-month-in/).
  * Devices built around a [Raspberry PI](http://www.raspberrypi.org/).
 
+<!---
 In order for me to consider being your supervisor, your team needs to put together a 1-page proposal for your project. This should include:
 
  * Is this a Computer Science or Computer Engineering topic?
  * Name and Student ID of every team member.
  * 100-300 word description of the project you would like to do.
+--->
 
 If you don’t know what you want to do, I'm more than willing to meet with you and talk about some of my and your interests.
