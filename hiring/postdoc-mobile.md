@@ -5,6 +5,8 @@ title: Postdoctoral Position in Mobile Device Security
 
 #Postdoctoral Position in Mobile Device Security
 
+**Please Note:** This position has been filled.  However, I may have other positions available.  Please check my main [hiring page](/hiring/) for details.
+
 Qatar University and Northwestern University are seeking applications for one postdoctoral fellow position for the development and evaluation of next generation privacy and security technologies for smart phones.  This person will have the responsibility of designing, implementing, and testing techniques for tracking private information flow on Android devices by instrumenting existing applications.  In addition, the applicant will have freedom to pursue their own innovative ideas in the realm of smart phone security.
 
 The position is based in Doha, Qatar at the Qatar University campus. The research will be conducted under the direct supervision of Dr. Ryan Riley (Qatar University), with close collaboration with Dr. Yan Chen (Northwestern University, Chicago, USA).
