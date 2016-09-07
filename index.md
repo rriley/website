@@ -3,8 +3,6 @@ layout: default
 title: "A Security Academic in Qatar"
 ---
 
-#Welcome
-
 <table>
 <tr>
 <td>
