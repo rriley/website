@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-#Teaching
+# Teaching
 
 Teaching is my real passion, and the reason I finally decided to get a PhD. (Don’t get me wrong, I do enjoy my research, but teaching is what gets me really excited.)
 
