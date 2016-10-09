@@ -6,7 +6,7 @@ title: Contact
 #Contact Information
 
 Ryan Riley, Ph.D.  
-Assistant Professor  
+Associate Professor  
 Department of Computer Science and Engineering  
 College of Engineering  
 Qatar University  

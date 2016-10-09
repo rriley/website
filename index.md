@@ -13,14 +13,12 @@ title: "A Security Academic in Qatar"
 </div>
 </td>
 <td>
-Welcome to the homepage of Ryan Riley. I’m an Assistant Professor of
+Welcome to the homepage of Ryan Riley. I’m an Associate Professor of
 Computer Science and Engineering here at
 <a href="http://www.qu.edu.qa">Qatar University</a> in the
 <a href="http://www.qu.edu.qa/engineering/computer/">Department of Computer Science and Engineering</a>.
-I received my Ph.D. in Computer Science from
-<a href="http://www.purdue.edu/">Purdue University</a> under the direction of
-<a href="http://www.cs.purdue.edu/homes/dxu">Dongyan Xu</a> and
-<a href="http://www.csc.ncsu.edu/faculty/jiang/">Xuxian Jiang</a>.
+
+My research focuses on operating systems and security, and I am passionate about high-quality teaching.
 </td>
 </tr>
 </table>
