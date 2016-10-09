@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-#Contact Information
+# Contact Information
 
 Ryan Riley, Ph.D.  
 Associate Professor  

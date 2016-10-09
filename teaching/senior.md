@@ -3,7 +3,7 @@ layout: default
 title: Senior Projects
 ---
 
-#Senior Design
+# Senior Design
 
 Here at Qatar University every Professor in the department supervises one senior design team per year. Starting in the Spring semesters, students start to look for an advisor for their project in the next year.
 
