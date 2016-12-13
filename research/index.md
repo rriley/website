@@ -26,7 +26,7 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
 
 ## Journal Publications
   * Shahid Alam, Zhengyang Qu, Ryan Riley, Yan Chen, and Vaibhav Rastogi, "DroidNative: Automating and Optimizing Detection of Android Native Code Malware Variants", Accepted to *Computers & Security*, 2016.
-  * Dmitry Evtyushkin, Jesse elwell, Meltem Ozsoy, Dmitry Ponomarev, Nael Abu-Ghazaleh and Ryan Riley, "[Flexible Hardware-Managed Isolated Execution: Architecture, Software Support and Applications](/pubs/tdsc16.pdf)", Accepted to the *IEEE Transactions on Dependable and Secure Computing* (TDSC), 2016. 
+  * Dmitry Evtyushkin, Jesse Elwell, Meltem Ozsoy, Dmitry Ponomarev, Nael Abu-Ghazaleh and Ryan Riley, "[Flexible Hardware-Managed Isolated Execution: Architecture, Software Support and Applications](/pubs/tdsc16.pdf)", Accepted to the *IEEE Transactions on Dependable and Secure Computing* (TDSC), 2016. 
   * Jesse Elwell, Ryan Riley, Nael Abu-Ghazaleh, Dmitry Ponomarev, Iliano Cervesato, "[Rethinking Memory Permissions for Protection Against Cross-Layer Attacks](/pubs/taco16.pdf)", *ACM Transactions on Architecture and Code Optimization* (ACM TACO), Volume 12, Issue 4, Article 56, December 2015.
   * Noor Al-Nakhala, Ryan Riley, and Tarek M. Elfouly, "[Distributed Algorithms in Wireless Sensor Networks: An Approach for Applying Binary Consensus in a Real Testbed](/pubs/consensus-journal.pdf)", *Computer Networks*, Elsevier, Volume 79, March 2015.
   * Junghwan Rhee, Ryan Riley, Zhiqiang Lin, Xuxian Jiang, Dongyan Xu, "[Data-Centric OS Kernel Malware Characterization](/pubs/TIFS_datagene.pdf)", *IEEE Transactions on Information Forensics and Security*, 9(1), January 2014.
