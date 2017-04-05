@@ -12,6 +12,7 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
 
 ## Conference Publications
   * Baljit Singh, Dmitry Evtyushkin, Jesse Elwell, Ryan Riley, and Iliano Cervesato, "[On the Detection of Kernel-Level Rootkits Using Hardware Performance Counters](/pubs/asiaccs17.pdf)", Proceedings of the *ACM Asia Conference on Computer and Communications Security* (ASIACCS), Abu Dhabi, United Arab Emirates, April 2017. (20.3%)
+    (HPC traces available)[https://github.com/rriley/rootkitML-data]
   * Vaibhav Rastogi, Rui Shao, Yan Chen, Xiang Pan, Shihong Zou, and Ryan Riley, "[Are These Ads Safe: Detecting Hidden Attacks through the Mobile App-Web Interfaces](/pubs/ndss2016.pdf)", Proceedings of the *Network and Distributed System Security Symposium* (NDSS), San Diego, California, February 2016. (15.4%)
   * Dmitry Evtyushkin, Jesse Elwell, Meltem Ozsoy, Dmitry Ponomarev, Nael Abu Ghazaleh, and Ryan Riley, "[Iso-X: A Flexible Architecture for Hardware-Managed Isolated Execution](/pubs/micro14.pdf)", Proceedings of the *47th Annual IEEE/ACM International Symposium on Microarchitecture* (MICRO 2014), Cambridge, UK, December 2014.
   * Noor Al-Nakhala, Ryan Riley, and Tarek M. Elfouly, "[Clustered Binary Consensus in Sensor Motes](/pubs/ew2014.pdf)", Proceedings of the *20th European Wireless Conference* (EW 2014), Barcelona, Spain, May 2014.
