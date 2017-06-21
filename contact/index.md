@@ -6,12 +6,12 @@ title: Contact
 # Contact Information
 
 Ryan Riley, Ph.D.  
-Associate Professor  
-Department of Computer Science and Engineering  
-College of Engineering  
-Qatar University  
+Associate Teaching Professor  
+Department of Computer Science  
+Carnegie Mellon University Qatar  
 
-Email: [ryan.riley@qu.edu.qa](mailto:ryan.riley@qu.edu.qa)  
-Phone: +974 4403 4261
+Email: [ryan@vsecurity.info](mailto:ryan@vsecurity.info)  
+Please note that I am currently between positions (I will be joining CMU in August), so the email above
+is a temporary forwarding address.
 
 ORCID iD: [0000-0002-8321-1211](http://orcid.org/0000-0002-8321-1211)

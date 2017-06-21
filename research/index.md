@@ -5,10 +5,7 @@ title: Research
 
 # Research
 
-My research is centered around operating system security. Specifically, I'm
-currently working on operating system security using virtualization. I'm doing
-most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
-[QEMU](http://www.qemu.org/). 
+My research is centered around operating system security, computer architecture, and intrusion detection.
 
 ## Conference Publications
   * Baljit Singh, Dmitry Evtyushkin, Jesse Elwell, Ryan Riley, and Iliano Cervesato, "[On the Detection of Kernel-Level Rootkits Using Hardware Performance Counters](/pubs/asiaccs17.pdf)", Proceedings of the *ACM Asia Conference on Computer and Communications Security* (ASIACCS), Abu Dhabi, United Arab Emirates, April 2017. (20.3%)  
@@ -37,6 +34,6 @@ most of my work on [Xen](http://www.cl.cam.ac.uk/research/srg/netos/xen/) and
 
 ## Student Supervision
 
-  * Noor Al-Nakhala, "Binary Consensus in Senor Motes".  MS in Computing. Graduated January 2013.
-  * Mohammed Al-Tamimi, "Performance of the Secure AODV Routing Protocol on Mobile Ad Hoc Networks (MANETs)".  MS in Computing.  Graduated June 2014.
-  * Mahmoud Maqboul, "Security Analysis of VPN Service in the Presence of Mixed IP Networks".  MS in Computing.  Graduates June 2014.
+  * Noor Al-Nakhala, "Binary Consensus in Senor Motes".  Qatar University. MS in Computing. Graduated January 2013.
+  * Mohammed Al-Tamimi, "Performance of the Secure AODV Routing Protocol on Mobile Ad Hoc Networks (MANETs)".  Qatar University. MS in Computing.  Graduated June 2014.
+  * Mahmoud Maqboul, "Security Analysis of VPN Service in the Presence of Mixed IP Networks".  Qatar University. MS in Computing.  Graduates June 2014.
