@@ -10,8 +10,6 @@ Associate Teaching Professor
 Department of Computer Science  
 Carnegie Mellon University Qatar  
 
-Email: [ryan@vsecurity.info](mailto:ryan@vsecurity.info)  
-Please note that I am currently between positions (I will be joining CMU in August), so the email above
-is a temporary forwarding address.
+Email: [r...@cmu.edu](http://www.google.com/recaptcha/mailhide/d?k=01CMJvkLJlwIb6DLtgffbmMQ==&amp;c=0oeX86IVmaxVBiw4eHgX1A==){:target="_blank"}  
 
 ORCID iD: [0000-0002-8321-1211](http://orcid.org/0000-0002-8321-1211)
