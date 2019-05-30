@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -r --progress _site/* vsecurity.info:/var/www
+rsync -r --progress --rsync-path="aklog cs.cmu.edu && rsync" _site/* rdriley@unix.andrew.cmu.edu:www-cs/
