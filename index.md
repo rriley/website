@@ -8,7 +8,7 @@ title: "A Security Academic in Qatar"
 <td>
 <div id="profile">
 <div class="portrait">
-<img src="/images/portrait-small.jpg" title="Ryan">
+<img src="{{ '/images/portrait-small.jpg' | relative_url }}" title="Ryan">
 </div>
 </div>
 </td>
