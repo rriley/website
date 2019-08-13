@@ -9,7 +9,7 @@ Teaching is my real passion, and the reason I finally decided to get a PhD. (Don
 You should check out my [YouTube channel](https://www.youtube.com/channel/UCZy1TmqIMQ4perExQerm5bQ) for a variety of videos I've put together for various courses I've taught.
 
 ## Fall 2019
-[15-121: Introduction to Data Structures](https://www.cs.cmu.edu/~rdriley/121/)
+15-121: Introduction to Data Structures
 
 ## Spring 2019
 [15-112: Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~rdriley/112/)  
