@@ -27,6 +27,7 @@ My research is centered around operating system security, computer architecture,
   * Ryan Riley, Xuxian Jiang, Dongyan Xu, [ "An Architectural Approach to Preventing Code Injection Attacks"](pubs/dsn07-codeinj.pdf), Proceedings of *IEEE/IFIP International Conference on Dependable Systems and Networks* ([DSN-DCCS 2007](http://www.dsn.org/)), Edinburgh, UK, June 2007. (25%) Source code is [available](downloads/dsn07-codeinj.tar.gz).
 
 ## Journal Publications
+  * Maan Haj Rachid, Ryan Riley, and Qutaibah Malluhi, "[Enclave-Based Oblivious RAM Using Intel's SGX](pubs/cose2020-oram.pdf)", *Computers & Security*, Elsevier, To Appear.
   * Mashael AlSabah, Gabriele Oligeri, and Ryan Riley, "[Your Culture is in Your Password: An Analysis of a Demographically-diverse Password Dataset](pubs/cose2018-password.pdf)", *Computers & Security*, Elsevier, Volume 77, August 2018.
   * Rui Shao and Vaibhav Rastogi and Yan Chen and Xiang Pan and Guanyu Guo and Shihong Zou and Ryan Riley, "[Understanding In-app Ads and Detecting Hidden Attacks through the Mobile App-Web Interface](pubs/tmc18.pdf)", *IEEE Transcations on Mobile Computing*, February 2018.
   * Shahid Alam, Zhengyang Qu, Ryan Riley, Yan Chen, and Vaibhav Rastogi, "[DroidNative: Automating and Optimizing Detection of Android Native Code Malware Variants](pubs/droidnative-cs.pdf)", *Computers & Security*, Volume 65, March 2017.
