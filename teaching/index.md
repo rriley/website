@@ -9,8 +9,15 @@ Teaching is my real passion, and the reason I finally decided to get a PhD. (Don
 You should check out my [YouTube channel](https://www.youtube.com/channel/UCZy1TmqIMQ4perExQerm5bQ) for a variety of videos I've put together for various courses I've taught.
 {: class="lead mb-5"}
 
+### Spring 2022
+[15-316: Software Foundations of Security & Privacy](https://web2.qatar.cmu.edu/cs/15316/)
+
+### Fall 2021
+[15-112: Fundamentals of Programming and Computer Science](https://archive.vsecurity.info/15112-f21/)  
+[15-121: Introduction to Data Structures](https://www.diderot.one/courses/105)
+
 ### Spring 2021
-[15-112: Fundamentals of Programming and Computer Science](https://www.cs.cmu.edu/~112q/)  
+[15-112: Fundamentals of Programming and Computer Science](https://archive.vsecurity.info/15112-s21/)  
 [15-330: Intro to Computer Security](https://www.cs.cmu.edu/~rdriley/330/)
 
 ### Fall 2020
