@@ -2,22 +2,12 @@
 layout: default
 title: "A Security Academic in Qatar"
 ---
+## Ryan Riley
 
-<table>
-<tr>
-<td>
-<div id="profile">
-<div class="portrait">
-<img src="{{ '/images/portrait-small.jpg' | relative_url }}" title="Ryan">
-</div>
-</div>
-</td>
-<td>
-Welcome to the homepage of Ryan Riley. I’m an Associate Teaching Professor in the
-Computer Science program
-at <a href="https://www.qatar.cmu.edu/">Carnegie Mellon University in Qatar</a>.
+Associate Teaching Professor, Computer Science  
+Carnegie Mellon University Qatar
 
+I'm an Associate Teaching Professor in the Computer Science program
+at [Carnegie Mellon University in Qatar](https://www.qatar.cmu.edu/).  
 My research focuses on operating systems and security, and I am passionate about high-quality teaching.
-</td>
-</tr>
-</table>
+{: class="lead mb-5"}

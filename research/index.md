@@ -3,11 +3,12 @@ layout: default
 title: Research
 ---
 
-# Research
+## Research
 
 My research is centered around operating system security, computer architecture, and intrusion detection.
+{: class="lead mb-5"}
 
-## Conference Publications
+### Conference Publications
   * Aisha Hasan, Ryan Riley, and Dmitry Ponomarev, "[Port or Shim? Stress Testing Application Performance on Intel SGX](pubs/iiswc2020.pdf)", Proceedings of the 2020 IEEE International Symposium on Workload Characterization
   (IISWC-2020), Held Virtually, October 2020.
   * Dmitry Evtyushkin, Ryan Riley, Nael Abu-Ghazaleh, and Dmitry Ponomarev, "[BranchScope: A New Side-Channel Attack on Directional Branch Predictor](pubs/asplos18.pdf)", Proceedings of the 2018 ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS 2018), Williamsburg, Virginia, March 2018. (17.6%)
@@ -28,7 +29,7 @@ My research is centered around operating system security, computer architecture,
   * Ryan Riley, Xuxian Jiang, Dongyan Xu, [ "Guest-Transparent Prevention of Kernel Rootkits with VMM-based Memory Shadowing"](pubs/RAID08.pdf), Proceedings of *11th International Symposium on Recent Advances in Intrusion Detection* ([RAID 2008](http://www.ll.mit.edu/RAID2008/)), Boston, MA, September 2008. (25%) Received the best paper award. Source code is available from [here](https://github.com/rriley/nickle-research).
   * Ryan Riley, Xuxian Jiang, Dongyan Xu, [ "An Architectural Approach to Preventing Code Injection Attacks"](pubs/dsn07-codeinj.pdf), Proceedings of *IEEE/IFIP International Conference on Dependable Systems and Networks* ([DSN-DCCS 2007](http://www.dsn.org/)), Edinburgh, UK, June 2007. (25%) Source code is [available](downloads/dsn07-codeinj.tar.gz).
 
-## Journal Publications
+### Journal Publications
   * Maan Haj Rachid, Ryan Riley, and Qutaibah Malluhi, "[Enclave-Based Oblivious RAM Using Intel's SGX](pubs/cose2020-oram.pdf)", *Computers & Security*, Elsevier, To Appear.
   * Mashael AlSabah, Gabriele Oligeri, and Ryan Riley, "[Your Culture is in Your Password: An Analysis of a Demographically-diverse Password Dataset](pubs/cose2018-password.pdf)", *Computers & Security*, Elsevier, Volume 77, August 2018.
   * Rui Shao and Vaibhav Rastogi and Yan Chen and Xiang Pan and Guanyu Guo and Shihong Zou and Ryan Riley, "[Understanding In-app Ads and Detecting Hidden Attacks through the Mobile App-Web Interface](pubs/tmc18.pdf)", *IEEE Transcations on Mobile Computing*, February 2018.
@@ -40,7 +41,7 @@ My research is centered around operating system security, computer architecture,
   * Ryan Riley, "[A Framework for Prototyping and Testing Data-Only Rootkit Attacks](pubs/dorf.pdf)", *Computers & Security*, Volume 37, September 2013, Pages 62-71.
   * Ryan Riley, Xuxian Jiang, Dongyan Xu, [ "An Architectural Approach to Preventing Code Injection Attacks", ](pubs/TDSC10.pdf) *IEEE Transactions on Dependable and Secure Computing* (TDSC), 7(4), 2010.
 
-## Student Supervision
+### Student Supervision
 
   * Noor Al-Nakhala, "Binary Consensus in Senor Motes".  Qatar University. MS in Computing. Graduated January 2013.
   * Mohammed Al-Tamimi, "Performance of the Secure AODV Routing Protocol on Mobile Ad Hoc Networks (MANETs)".  Qatar University. MS in Computing.  Graduated June 2014.
