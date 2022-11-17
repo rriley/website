@@ -9,6 +9,10 @@ Teaching is my real passion, and the reason I finally decided to get a PhD. (Don
 You should check out my [YouTube channel](https://www.youtube.com/channel/UCZy1TmqIMQ4perExQerm5bQ) for a variety of videos I've put together for various courses I've taught.
 {: class="lead mb-5"}
 
+### Fall 2022
+[15-348: Embedded Systems](https://web2.qatar.cmu.edu/cs/15348/)  
+[15-121: Introduction to Data Structures](https://www.cs.cmu.edu/~rdriley/121/)
+
 ### Spring 2022
 [15-316: Software Foundations of Security & Privacy](https://web2.qatar.cmu.edu/cs/15316/)
 
