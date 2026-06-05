@@ -1,6 +1,7 @@
 :root {
   --cmu-red: #CC002B;
   --cmu-red-dark: #a30022;
+  --skibo-red: #941120;
 }
 
 body {
@@ -18,7 +19,7 @@ a:hover {
 
 /* Navbar */
 nav.navbar {
-  background-color: var(--cmu-red);
+  background-color: var(--skibo-red);
 }
 .navbar-brand {
   font-weight: 600;
