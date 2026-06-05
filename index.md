@@ -16,10 +16,10 @@ title: Home
     </div>
     <div class="hero-links">
       <a href="mailto:rileyrd@cmu.edu" title="Email"><i class="fas fa-envelope"></i></a>
-      <a href="https://scholar.google.com/citations?user=75JB_d0AAAAJ" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>
-      <a href="http://orcid.org/0000-0002-8321-1211" title="ORCID"><i class="fab fa-orcid"></i></a>
-      <a href="https://www.youtube.com/channel/UCZy1TmqIMQ4perExQerm5bQ" title="YouTube"><i class="fab fa-youtube"></i></a>
-      <a href="https://github.com/rriley" title="GitHub"><i class="fab fa-github"></i></a>
+      <a href="https://scholar.google.com/citations?user=75JB_d0AAAAJ" title="Google Scholar" target="_blank" rel="noopener"><i class="fas fa-graduation-cap"></i></a>
+      <a href="http://orcid.org/0000-0002-8321-1211" title="ORCID" target="_blank" rel="noopener"><i class="fab fa-orcid"></i></a>
+      <a href="https://www.youtube.com/channel/UCZy1TmqIMQ4perExQerm5bQ" title="YouTube" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a>
+      <a href="https://github.com/rriley" title="GitHub" target="_blank" rel="noopener"><i class="fab fa-github"></i></a>
     </div>
   </div>
 </div>
@@ -27,5 +27,5 @@ title: Home
 ## About
 
 I'm an Associate Teaching Professor in the Computer Science program
-at [Carnegie Mellon University in Qatar](https://www.qatar.cmu.edu/).
+at <a href="https://www.qatar.cmu.edu/" target="_blank" rel="noopener">Carnegie Mellon University in Qatar</a>.
 My research focuses on operating systems and security, and I am passionate about high-quality teaching.
