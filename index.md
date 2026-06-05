@@ -5,7 +5,7 @@ title: Home
 
 <div class="row align-items-center g-4 mb-5">
   <div class="col-12 col-sm-auto text-center text-sm-start">
-    <img src="{{ '/images/portrait-small.jpg' | relative_url }}" alt="Ryan Riley" class="hero-photo" />
+    <img src="{{ '/images/headshot2024.jpg' | relative_url }}" alt="Ryan Riley" class="hero-photo" />
   </div>
   <div class="col-12 col-sm">
     <div class="hero-name">Ryan Riley</div>
